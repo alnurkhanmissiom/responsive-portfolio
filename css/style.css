@@ -14,7 +14,7 @@ html{
 
 
 #header{
-    background: url("/images/bg-header.jpg)";
+    background: url("/images/bg-header.jpg");
     height: 100%;
 	width: 100%;
 	object-fit: cover;
