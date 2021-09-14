@@ -14,7 +14,7 @@ html{
 
 
 #header{
-    background:url("../images/bg-header.jpg");
+    background:url("../images/bg-header.jpg"), linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(2,0,36,0.734341252699784) 100%);
     height: 100vh;
 	width: 100%;
 	object-fit: cover;
